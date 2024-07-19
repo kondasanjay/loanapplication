@@ -45,7 +45,7 @@ public class LoanApplicationTest {
 
         EmiPlan EmiPlan=new EmiPlan();
 
-        EmiPlan.noOfyears=
+        EmiPlan.noOfyears="twoyears";
 
         EmiPlan.yearplan="3420000";
         EmiPlan.yearmonthlyEmi=28500;
